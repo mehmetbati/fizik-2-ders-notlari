@@ -6,17 +6,17 @@ template: main.html
 
 İndir 
 
-- [Özgeçmiş-İngilizce](../yildiran_yilmaz_en_cv.pdf)
+- [Özgeçmiş-İngilizce](mehmet_bati_en_cv.pdf)
 
-- [Özgeçmiş-Türkçe](../yildiran_yilmaz_tr_cv.pdf)
+- [Özgeçmiş-Türkçe](mehmet_bati_tr_cv.pdf)
 
 
 === "İngilizce"
 
-<iframe width=700, height=500 frameBorder=0 src="../yildiran_yilmaz_en_cv.pdf"></iframe>
+<iframe width=900, height=500 frameBorder=0 src="mehmet_bati_en_cv.pdf"></iframe>
 
 === "Türkçe"
 
-<iframe width=700, height=500 frameBorder=0 src="../yildiran_yilmaz_tr_cv.pdf"></iframe>
+<iframe width=900, height=500 frameBorder=0 src="mehmet_bati_tr_cv.pdf"></iframe>
 
 

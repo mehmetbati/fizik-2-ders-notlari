@@ -10,12 +10,12 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: 'CE204 Nesne Yönelimli Programlama Ders İzlencesi'
-footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU C204 Syllabus'
-title: "CE204 Nesne Yönelimli Programlama Ders İzlencesi"
-author: "Yazar: Dr. Öğr. Üyesi Uğur CORUH"
+header: 'FZK164 - Fizik II Ders İzlencesi'
+footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU FZK164 Syllabus'
+title: "FZK164 - Fizik II Ders İzlencesi"
+author: "Author: Doç. Dr. Mehmet BATI"
 date:
-subtitle: "Detailed Syllabus"
+subtitle: "Ders İzlencesi"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
 titlepage: true
 titlepage-color: "FFFFFF"
@@ -35,7 +35,7 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
-footer-left: "© Dr. Öğr. Üyesi Uğur CORUH"
+footer-left: "© Doç. Dr. Mehmet BATI"
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true
@@ -56,285 +56,190 @@ math: katex
 
 ## Mühendislik ve Mimarlık Fakültesi
 
-## Bilgisayar Mühendisliği
+## Elektrik - Elektronik Mühendisliği Bölümü
 
-### CE204 Nesne Yönelimli Programlama
+### FZK164 - Fizik-II
 
 #### Ders İzlencesi
 
 #### Bahar Dönemi, 2021-2022
 
-İndir [DOC](syllabus.tr.md_doc.pdf), [SLIDE](syllabus.tr.md_slide.pdf), [PPTX](syllabus.tr.md_slide.pptx)
+Download [DOC](syllabus.en.md_doc.pdf), [SLIDE](syllabus.en.md_slide.pdf), [PPTX](syllabus.en.md_slide.pptx), [PDF](FZK164-Fizik-II-Bologna.pdf)
 
-İndir [WORD](2021-2022-spring-ce204-object-oriented-programming-comp-eng.docx), [PDF](2021-2022-spring-ce204-object-oriented-programming-comp-eng.pdf)
 
-<iframe width=700, height=500 frameBorder=0 src="../syllabus.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../syllabus.en.md_slide.html"></iframe>
 
 ---
 
 <!-- paginate: true -->
 
-| Instructor                 | Dr. Öğr. Üyesi Uğur CORUH                                       |
-| -------------------------- | --------------------------------------------------------------- |
-| **İletişim Bilgisi** 	     | ugur.coruh@erdogan.edu.tr                                       |
-| **Ofis**                   | **F-301**                                                       |
-| **Google Sınıf Kodu**      | **n24xrzo**                                                     |
-| **Ders Saati ve Günü**     | Teorik - Pazartesi (13:00-16:00) Lab – Perşembe (10:00-12:00)   |
+## Ders Öğretim Planı
+
+| Ders Bilgileri |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Ders Kodu | Ders Adı | Ders Türü | Yarı Yıl | ECTS | Yazdır |
+| FZK164 | Fizik-II | Zorunlu | 2 | 5 |  |
 
 ---
 
-| **Lecture Classroom** | D-203                                                                                                                                                                                                                                            |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Office Hours**      | Meetings will be scheduled over Google Meet with your university account and email and performed via demand emails. Please send emails with the subject starts with [CE204] tag for the fast response and write formal, clear, and short emails. |
+### Bölüm / Program
+MÜHENDİSLİK VE MİMARLIK FAKÜLTESİ - Elektrik-Elektronik Mühendisliği
 
 ---
 
-| **Lecture and Communication Language**     | English                                                                       |
-| ------------------------------------------ | ----------------------------------------------------------------------------- |
-| **Theory/Laboratory Course Hour Per Week** | 3/2 Hours                                                                     |
-| **Credit**                                 | 4                                                                             |
-| **Prerequisite**                           | CE103- Algorithms and Programming I CE100- Algorithms and Programming II      |
-| **Corequisite**                            | TBD                                                                           |
-| **Requirement**                            | TBD                                                                           |
-
-*TBD: To Be Defined.
+### Ders Türü
+Zorunlu
 
 ---
 
-## A.Course Description
-
-This course introduces advanced programming skills with a focus on object-oriented programming and design fundamentals using a high-level language such as Java. Object-oriented programming is the process of integrating software components into a large-scale software architecture. After learning the fundamentals of coding, this approach to software development is the next logical step, allowing for large-scale programs. The course focuses on understanding and applying object-oriented concepts such as classes, objects, data abstraction, methods, method overloading, inheritance, and polymorphism.
-The class will be built around sharing expertise and guiding students to find learning methods and practice for object-oriented programming topics. Making programming applications and projects in the courses will strengthen the learning process by putting theory into practice.
+### Dersin Ön Koşulu Olan Dersler
+Yok
 
 ---
 
-## B.Course Learning Outcomes
-
-After completing this course satisfactorily, a student will be able to:
-
-- Design applications using OO techniques
-
-- Use the unified software development process to manage software development
-
-- Use UML for the notation diagrams of applications
-
-- Apply useful design and architecture patterns for software development.
+### Dersin Amacı
+Bu dersin amacı, temel elektrik ve manyetizma konularında, öğrencilerin öğrenmesine yardımcı olabilecek bazı düşünceleri vermektir.
 
 ---
 
-## C.Course Topics
-
-- Object-oriented concepts
-
-- Unified object-oriented analysis and design process
-
-- Unified Model Language
-
-- Use case analysis
-
-- Object structure and behavior analysis
-
-- System design
-
-- Application architecture and design patterns
-
-- Java implementation of object-oriented design
+### Dersin İçeriği
+Elektrik Yükü ve Elektrik Alan, Elektriksel Potansiyel, Kapasitans ve Dielektrikler Akım, Resistans, ve Elektromotor Kuvvet, Doğru- Akım Devreleri, Kirchoff yasaları, Manyetik Alan ve Manyetik Kuvvetler Manyetik Alanın Kaynakları, Elektromanyetik İndüksiyon, Alternatif Akım, Elektromanyetik Dalgalar
 
 ---
 
-## D.Textbooks and Required Hardware or Equipment
-
-This course does not require a coursebook. If necessary, you can use the following books and open-source online resources. 
-
-- *Timothy C. Lethbridge and Robert Laganière, Object-Oriented Software Engineering: Practical Software Development using UML and Java, McGraw Hill*
-
-- *Walter Savitch, Absolute C++,  Addison-Wesley Longman*
-
-----
-
-
-
-- *Intro to Java Programming, Comprehensive Version (10th Edition) 10th Edition by Y. Daniel Liang*
-
-- *Harvey M. Deitel and Paul J. Deitel. 2001. Java How to Program (4th. ed.). Prentice Hall PTR, USA.*
-
-- *Paul Deitel and Harvey Deitel. 2016. Visual C# How to Program (6th. ed.). Pearson.*
-
-- *Additional Books TBD*
+### Ders İçin Önerilen Diğer Hususlar
+Yok
 
 ---
 
-
-
-<u>During this course, you should have a laptop for programming practices. You will have your development environment, and you will use this for examination and assignments also classroom practices. </u>
-
----
-
-## E.Grading System
-
-Midterm and Final grades will be calculated with the weighted average of the project or homework-based examinations. Midterm grades will be calculated between term beginning to the midterm week, and Final grades will be calculated between Midterm and Final week homeworks or projects as follow
-
-$$
-a_n=\text{Homework or Project Weight}
-$$
-
-$$
-HW_n=\text{Homework or Project Points}
-$$
-
-$$
-n=\text{Number of Homework or Project}
-$$
+### Dersin Kitabi / Malzemesi / Önerilen Kaynaklar
+- Bekir Karaoğlu, Üniversiteler için Fizik, Seçkin yayıncılık. Servay, Fen ve Mühendislik için Fizik 2 University Physics, by H.D. Young, R.A. Freedman, A.L. Ford, Addison Wesley, 12th Ed., New York, 2008. 
+- Fundamentals of Physics, by David Halliday, Robert Resnick, Jearly Walker, John Wiley and Sons, 7th Ed., New York, 2005. Phyics, by Paul A. Tipler, Worth Publishers, 3th Ed., New York, 2000.
 
 ---
 
-$$
-Grade=(a_1HW_1+a_2HW_2+...+a_nHW_n)/n
-$$
-
-|      Homework			 | Weight |
-| ---------------------- | ------ |
-| 	   Midterm  		 | %40    |
-| 	   Final    		 | %60    |
-
-$$
-\text{Passing Grade}=(40*Midterm_{Grade}+60*Final_{Grade})/100
-$$
+### Staj Durumu
+Yok
 
 ---
 
-## F. Instructional Strategies and Methods
-
-The basic teaching method of this course will be planned to be face-to-face in the classroom, and support resources, homeworks, and announcements will be shared over google classroom. Students are expected to be in the university. This responsibility is very important to complete this course with success. If pandemic situation changes and distance education is required during this course, this course will be done using synchronous and asynchronous distance education methods. In this scenario, students are expected to be in the online platform, zoom, or meet at the time specified in the course schedule. Attendance will be taken
-
----
-
-## G. Late Homework
-
-Throughout the semester, assignments must be submitted as specified by the announced deadline. Overdue assignments will not be accepted.
-Unexpected situations must be reported to the instructor for late homeworks by students
+### Dersin Öğretim Üyesi
+Doç. Dr. Mehmet BATI
 
 ---
 
-## H. Course Platform and Communication
+### Haftalık Ayrıntılı Ders İçeriği
 
-Google Classroom and Github will be used as a course learning management system. All electronic resources and announcements about the course will be shared on this platform. It is very important to check the course page daily, access the necessary resources and announcements, and communicate with the instructor to complete the course with success.
-
----
-
-## I. Academic Integrity, Plagiarism & Cheating
-
-Academic Integrity is one of the most important principles of RTEÜ University. Anyone
-who breaches the principles of academic honesty is severely punished.
-
----
-
- It is natural to interact with classmates and others t."study together". It may also be the case where a student asks to help from someone else, paid or unpaid, better understand a difficult topic or a whole course. However, what is the borderline between "studying together" or "taking private lessons" and "academic dishonesty"? When is it plagiarism, when is it cheating?
-
----
-
-It is obvious that looking at another student's paper or any source other than what is allowed during the exam is cheating and will be punished. However, it is known that
-many students come to university with very little experience concerning what is acceptable and what counts as "copying,"" especially for assignments.
-
-The following are attempted as guidelines for the Faculty of Engineering and Architecture students to highlight the philosophy of academic honesty for assignments for which the student will be graded. Should a situation arise which is not described below, the student is advised to ask the instructor or assistant of the course whether what they intend to do would remain within the framework of academic honesty or not.
-
----
-
-### a. What is acceptable when preparing an assignment?
-
-- Communicating with classmates about the assignment to understand it better
+| Hafta | Konular |  |  |
+| :-: | :-: | :-: | :-: |
+|  | Teorik Dersler | Uygulama | Laboratuvar |
+| 1 | Elektrik Yükü ve Elektrik Alan | Elektrik Yükü ve Elektrik Alan problem çözme ve deney | Labaratuvar tanıtımı, Eş potansiyel yüzeyler deneyi |
+| 2 | Gauss Yasası | Elektrik Yükü ve Elektrik Alan problem çözme ve deney | Eş potansiyel yüzeyler deneyi |
+| 3 | Elektriksel Potansiyel | Eşpotansiyeller deneyi ve problem çözme | Kondansatörler deneyi |
+| 4 | Kapasitans ve Dielektrikler | Kapasitans ve Dielektrikler problem çözme | Kondansatörler deneyi |
+| 5 | Akım, Resistans, ve Elektromotor Kuvvet | Akım, Resistans, ve Elektromotor Kuvvet problem çözme | Ohm kanunu seri ve pararlel bağlı dirençler |
+| 6 | Doğru- Akım Devreleri, Kirchoff yasları | Doğru- Akım Devreleri, Kirchoff yasları problem çözme | Ohm kanunu seri ve pararlel bağlı dirençler |
+| 7 | Doğru- Akım Devreleri, Kirchoff yasları | Vizeye yönelik problem çözme | RC devresi |
+| 8 | Vize |  | RC devresi |
+| 9 | Manyetik Alan ve Manyetik Kuvvetler | problem çözme | Manyetik alan deneyi |
+| 10 | Manyetik Alanın Kaynakları | problem çözme | Manyetik alan deneyi |
+| 11 | Elektromanyetik İndüksiyon | problem çözme | Helmholtz bobini ve indüksiyon deneyi |
+| 12 | Elektromanyetik İndüksiyon | problem çözme | Helmholtz bobini ve indüksiyon deneyi |
+| 13 | Yerdeğiştirme Akımı ve Maxwell in Eşitlikleri | problem çözme | Alternatif akım frekansının bulunması |
+| 14 | Indüktans | problem çözme | Alternatif akım frekansının bulunması |
+| 15 | Alternatif Akım | Finale yönelik problem çözme | Telafi deneyleri |
+| 16 | Final |  |  |
 
 ---
 
-- Putting ideas, quotes, paragraphs, small pieces of code (snippets) that you find online
-  or elsewhere into your assignment, provided that
-  
-  - these are not themselves the whole solution to the assignment,
-  
-  - you cite the origins of these
+### Değerlendirme
+
+| Yarıyıl (Yıl) İçi Etkinlikleri | Değer | Katkı Yüzdesi |
+| :-: | :-: | :-: |
+| Ara Sınav | 1 | 50 |
+| Deney | 5 | 20 |
+| Ev Ödevi | 10 | 30 |
+| Toplam |  | 100 |
 
 ---
 
-- Asking sources for help in guiding you for the English language content of your
-  assignment.
+### Değerlendirme
 
-- Sharing small pieces of your assignment in the classroom to create a class discussion
-  on some controversial topics.
-
----
-
-- Turning to the web or elsewhere for instructions, references, and solutions to
-  technical difficulties, but not for direct answers to the assignment
-
-- Discuss solutions to assignments with others using diagrams or summarized statements but not actual text or code.
-
-- Working with (and even paying) a tutor to help you with the course, provided the tutor does not do your assignment for you.
+| Yarıyıl(yıl) içi etkinliklerin ve yarıyıl(yıl) sonu sınavının başarı notuna katkısı | Katkı Yüzdesi |
+| :-: | :-: |
+| Yarıyıl (Yıl) Sonu Etkinlikleri | 60 |
+| Yarıyıl (Yıl) İçi Etkinlikleri | 40 |
+| Toplam | 100 |
 
 ---
 
-### b. What is not acceptable?
+### Değerlendirme
 
-- Ask a classmate to see their solution to a problem before submitting your own.
-
-- Failing to cite the origins of any text (or code for programming courses) that you discover outside of the course's lessons and integrate into your work
-
-- You are giving or showing a classmate your solution to a problem when the classmate is struggling to solve it.
-
----
-
-## J. Expectations
-
-You are expected to attend classes on time by completing weekly course requirements (readings and assignments) during the semester. The main communication channel between the instructor and the students email emailed. Please send your questions to the instructor's email address about the course via the email address provided to you by the university. ***Ensure that you include the course name in the subject field of your message and your name in the text field***. In addition, the instructor will contact you via email if necessary. For this reason, it is very important to check your email address every day for healthy communication.
+| Yarıyıl (Yıl) Sonu Etkinlikleri | Değer | Katkı Yüzdesi |
+| :-: | :-: | :-: |
+| Final Sınavı | 1 | 100 |
+| Toplam |  | 100 |
 
 ---
 
-## K. Lecture Content and Syllabus Updates
+### İş Yükü Hesaplaması
 
-If deemed necessary, changes in the lecture content or course schedule can be made. If any changes are made in the scope of this document, the instructor will inform you about this.
-
----
-
-## Course Schedule Overview
-
-| Weeks  | Dates                 | Subjects                                                                                                                                                                                                                                                                                                                         | Other Tasks |
-|:------ |:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |
-| Week 1 | 21.02.2022-24.02.2022 | Course Plan and Communication Grading System, Assignments, and Exams. Software and Software Engineering Object Orientation and OOP with Java Part-I(Classes, Objects, Methods,Inheritance,Access Modifiers,This and InstanceOf Keywords)                                                                                         | TBD         |
-| Week 2 | 28.02.2022-03.03.2022 | OOP with Java Part-II (super keyword, final keyword, Polymorphism / Encapsulation, Method Overriding, Nested Inner Class, Static Class, Anonymous Class, Enums / Enum-Constructor / Enum-String, Abstract Class, Object Class, Forms of Inheritance, Benefits, and Costs of Inheritance, Packages, Access Protection in Packages | TBD         |
-
----
-
-| Week 3 | 07.03.2022-10.03.2022 | OOP with Java Part-III(Defining and Interface and Interface Implementation, Nested Interfaces, Variables in Interfaces, Extending Interfaces, Reflection, Wrapper Classes, Lambda Notation)                                                                                                                                                                                                       | TBD |
-|:------ |:----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--- |
-| Week 4 | 14.03.2022-17.03.2022 | UML (UML tools, UML building blocks, architecture, diagrams, relationship, association, aggregation, composition comparison, association, dependency, generalization, realization, class diagram, object diagram, component diagram, deployment diagram, interaction diagram, use-case diagram, sequence diagram, collaboration diagram, state-machine diagram, activity diagram, timing diagram) | TBD |
-
----
-| Week 5     | 21.03.2022-24.03.2022 | Plantuml and Examples | TBD |   
-|:---------- |:--------------------- |:--------------------- |:--- |
-| Week-6     | 28.03.2022-31.03.2022 | UMPLE and Examples    | TBD |
-| Week-7     | 04.04.2022-07.04.2022 | UMPLE and Examples    | TBD |
-| **Week-8** | 09.04.2022-17.04.2022 | **Midterm**           | TBD |
+| Etkinlikler | Sayı | Süre (Saat) | Toplam İş Yükü (Saat) |
+| :-: | :-: | :-: | :-: |
+| Problem Çözümü | 14 | 2 | 28 |
+| Ödev Problemleri için Bireysel Çalışma | 10 | 5 | 50 |
+| Laboratuvar Ara Sınavı | 1 | 2 | 2 |
+| Laboratuvar | 5 | 2 | 10 |
+| Final Sınavı içiin Bireysel Çalışma | 1 | 5 | 5 |
+| Final Sınavı | 1 | 2 | 2 |
+| Ev Ödevi | 10 | 3 | 30 |
+| Ara Sınav İçin Bireysel Çalışma | 1 | 3 | 3 |
+| Ara Sınav | 1 | 2 | 2 |
+| Toplam İş Yükü (Saat) |  |  | 132 |
 
 ---
 
-| Week-9  | 18.04.2022-21.04.2022 | Using Design Patterns | TBD |
-|:------- |:--------------------- |:--------------------- |:--- |
-| Week-10 | 25.04.2022-28.04.2022 | Using Design Patterns | TBD |
-| Week-11 | 02.05.2022-05.05.2022 | **Holiday**           | TBD |
+### Program ve Öğrenme Çıktıları İlişkisi
+
+| Ö.Ç. \ P.Ç. | P.Ç. 1 | P.Ç. 2 | P.Ç. 3 | P.Ç. 4 | P.Ç. 5 | P.Ç. 6 | P.Ç. 7 | P.Ç. 8 | P.Ç. 9 | P.Ç. 10 | P.Ç. 11 | P.Ç. 12 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Ö.Ç. 1 | 5 | 0 | 5 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
+| Ö.Ç. 2 | 5 | 0 | 5 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
+| Ö.Ç. 3 | 5 | 0 | 5 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
+| Ö.Ç. 4 | 5 | 0 | 5 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
+| Ö.Ç. 5 | 5 | 0 | 5 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
 
 ---
 
-| Week-12 | 09.05.2022-12.05.2022 | UML + UMPLE + Java Implementations    | TBD |
-|:------- |:--------------------- |:------------------------------------- |:--- |
-| Week-13 | 16.05.2022-19.05.2022 | SMC Remote Service Case Study Part-I  | TBD |
-| Week-14 | 23.05.2022-26.05.2022 | SMC Remote Service Case Study Part-II | TBD |
+### Program Çıktıları
+
+| Sıra | Açıklama |
+| :-: | :-: |
+| 1 | Matematik, fen ve ilgili mühendislik konularında bilgi birikimi kazandırma |
+| 2 | Modern tasarım yöntemlerini uygulama becerisi |
+| 3 | Karmaşık mühendislik problemlerini saptama, tanımlama, formüle etme ve çözme becerisi; bu amaçla uygun analiz ve modelleme yöntemlerini seçme ve uygulama becerisi. |
+| 4 | Karmaşık bir sistemi, süreci, cihazı veya ürünü gerçekçi kısıtlar ve koşullar altında, belirli gereksinimleri karşılayacak şekilde tasarlama becerisi; bu amaçla modern tasarım yöntemlerini uygulama becerisi. |
+| 5 | Mühendislik uygulamalarında karşılaşılan karmaşık problemlerin analizi ve çözümü için gerekli olan modern teknik ve araçları geliştirme, seçme ve kullanma becerisi; bilişim teknolojilerini etkin bir şekilde kullanma becerisi. |
+| 6 | Disiplin içi ve çok disiplinli takımlarda etkin biçimde çalışabilme becerisi; bireysel çalışma becerisi. |
+| 7 | Karmaşık mühendislik problemlerinin veya disipline özgü araştırma konularının incelenmesi için deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama becerisi. |
+| 8 | Yaşam boyu öğrenmenin gerekliliği bilinci; bilgiye erişebilme, bilim ve teknolojideki gelişmeleri izleme ve kendini sürekli yenileme becerisi |
+| 9 | Türkçe sözlü ve yazılı etkin iletişim kurma becerisi; en az bir yabancı dil bilgisi; etkin rapor yazma ve yazılı raporları anlama, tasarım ve üretim raporları hazırlayabilme, etkin sunum yapabilme, açık ve anlaşılır talimat verme ve alma becerisi. |
+| 10 | Mühendislik uygulamalarının evrensel ve toplumsal boyutlarda sağlık, çevre ve güvenlik üzerindeki etkileri ve çağın mühendislik alanına yansıyan sorunları hakkında bilgi; mühendislik çözümlerinin hukuksal sonuçları konusunda farkındalık. |
+| 11 | Proje yönetimi, risk yönetimi ve değişiklik yönetimi gibi, iş hayatındaki uygulamalar hakkında bilgi; girişimcilik, yenilikçilik hakkında farkındalık; sürdürülebilir kalkınma hakkında bilgi. |
+| 12 | Etik ilkelerine uygun davranma, mesleki ve etik sorumluluk bilinci; mühendislik uygulamalarında kullanılan standartlar hakkında bilgi |
 
 ---
 
-| Week-15 | 30.05.2022-02.06.2022 | OOP ATM Case Study Part-I  | TBD |
-|:------- |:--------------------- |:-------------------------- |:--- |
-| Week-16 | 06.06.2022-09.06.2022 | OOP ATM Case Study Part-II | TBD |
-| Week-17 | 13.06.2022-26.06.2022 | **Final**                  |     |
+### Öğrenme Çıktıları
+
+| Sıra | Açıklama |
+| :-: | :-: |
+| 1 | Fizikte elektrostatiğin ve manyetizmanın tarihsel gelişim süreçlerini kavrayabilme |
+| 2 | Elektriksel yük ve etkileşimlerini ifade edebilme |
+| 3 | Alan kavramını kavrayabilme |
+| 4 | Elektrik yüklerinin hareketini, Manyetizmanın temel kavramlarını ifade edebilme, Elektrik ve manyetizmadan öğrendiklerini uygulayabilme |
+| 5 | Mühendislik uygulamalarında elektrik ve manyetizmanın önemini kavrama |
 
 ---
 
-$End-Of-Object-Oriented-Programming-Syllabus$
+$Fizik-II-Ders-İzlencesi-Sonu$

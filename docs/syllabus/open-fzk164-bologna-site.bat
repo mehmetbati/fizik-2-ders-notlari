@@ -1,0 +1,1 @@
+start "" "http://ogrenci.erdogan.edu.tr/BLGNDersBilgiPaketi/DersBilgileri?mufDersID=32238&dersGrubuDersID=0&dersID=16567&programID=1234&dilID=1"

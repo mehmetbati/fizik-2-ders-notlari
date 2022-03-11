@@ -1,1 +1,1 @@
-start "" "http://127.0.0.1:8000/course-note-template/"
+start "" "http://127.0.0.1:8000/fizik-2-ders-notlari/"

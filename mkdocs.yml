@@ -1,15 +1,17 @@
 # Project information
-site_name: RTEU EEM Fizik-2 Ders Notları
+site_name: RTEU FZK164 - Fizik-II Ders Notları
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
 site_author: 'Doç. Dr. Mehmet BATI'
 site_url: 'https://mehmetbati.github.io/fizik-2-ders-notlari/'
 
 site_description_en: >-
-    Course Notes Templates
+    Elektrik-Elektronik Mühendisliği 
+    FZK-164 Fizik-II Ders Notları
 
 site_description_tr: >-
-    Ders Notu Şablonu
+    Elektrik-Elektronik Mühendisliği 
+    FZK-164 Fizik-II Ders Notları
 
 # Repository
 repo_name: 'GitHub'
@@ -68,8 +70,8 @@ theme:
     
   palette:
     - scheme: default
-      primary: lime
-      accent: lime
+      primary: teal
+      accent: teal
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
@@ -104,7 +106,7 @@ theme:
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_FIZIK_2
+    property: !ENV GOOGLE_ANALYTICS_FIZIK_II
     feedback:
       title: Was this page helpful?
       ratings:
