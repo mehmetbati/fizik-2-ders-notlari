@@ -1,0 +1,1 @@
+curl -o "FZK164-Fizik-II-Bologna.pdf" "http://ogrenci.erdogan.edu.tr/BLGNDersBilgiPaketi/PDFTumu?mufDersID=32238&dersGrubuDersID=0&dersID=16567&yilID=null&programID=1234&mufredatID=null&dilID=1"
